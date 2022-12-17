@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  citus:
+  - apiVersion: v2
+    appVersion: 11.0.2
+    created: "2022-12-17T20:11:51.0426376-03:00"
+    description: A helm chart for citus
+    digest: 99d145e57312d4647b67fe7a3ddd9f88d9596033df09ea7ad4f06263deac128c
+    name: citus
+    type: application
+    urls:
+    - https://sergioprates.github.io/prates-charts/citus-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-12-17T20:11:51.0415715-03:00"
