@@ -3,19 +3,9 @@ entries:
   citus:
   - apiVersion: v2
     appVersion: 11.0.2
-    created: "2022-12-19T16:04:59.1419714-03:00"
+    created: "2022-12-19T16:45:20.5554168-03:00"
     description: A helm chart for citus
-    digest: f534c982ef2d18fe0d6303a1f483e12ae718c93bdb72c5e6977ad7c87f989ebb
-    name: citus
-    type: application
-    urls:
-    - https://sergioprates.github.io/prates-charts/citus-0.0.3.tgz
-    version: 0.0.3
-  - apiVersion: v2
-    appVersion: 11.0.2
-    created: "2022-12-19T16:04:59.1409683-03:00"
-    description: A helm chart for citus
-    digest: 08752b7ed880a685851e45a603eda860be88963550588cb8955270e8536d3a9b
+    digest: 44a9b310bdb376f8962fc4b9cdf83a44eab4be0e86ddb0cc35caa95b0e7fa9a9
     name: citus
     type: application
     urls:
@@ -23,7 +13,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 11.0.2
-    created: "2022-12-19T16:04:59.1394678-03:00"
+    created: "2022-12-19T16:45:20.5546617-03:00"
     description: A helm chart for citus
     digest: 99d145e57312d4647b67fe7a3ddd9f88d9596033df09ea7ad4f06263deac128c
     name: citus
@@ -31,4 +21,4 @@ entries:
     urls:
     - https://sergioprates.github.io/prates-charts/citus-0.0.1.tgz
     version: 0.0.1
-generated: "2022-12-19T16:04:59.1374688-03:00"
+generated: "2022-12-19T16:45:20.5496725-03:00"
