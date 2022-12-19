@@ -1,4 +1,4 @@
 postgres:
   nodeport: 30099
-pgBouncer:
-  nodePort: 30007
+pgbouncer:
+  nodeport: 30007
