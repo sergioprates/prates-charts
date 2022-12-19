@@ -1,2 +1,4 @@
-cert-manager:
-  installCRDs: true
+postgres:
+  nodeport: 30099
+pgBouncer:
+  nodePort: 30007

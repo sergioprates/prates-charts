@@ -30,8 +30,8 @@ spec:
   ports:
   - port: 5432
     name: postgres
-    nodePort: 30001
+    nodePort: {{ .Values.postgres.nodeport }}
   - port: 6432
     name: pgbouncer
-    nodePort: 30010
+    nodePort: {{ .Values.pgbouncer.nodeport }}
   type: NodePort
